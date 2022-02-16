@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 16819b09-677c-9716-4136-acd1fd60474c
 title: 18.02 Supplementary Notes and Problems
 uid: 9fa067c1-918e-c234-1bcb-156f6c4d73ad

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 5c50bb59-3e16-b05f-f333-b4588cf970fb
 ---
@@ -35,7 +38,7 @@ LECTURE NOTES
 {{< tdopen >}}
 Vectors
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 1 summary ([PDF]({{< baseurl >}}/resources/lec_week1))
 {{< tdclose >}}
 
@@ -65,7 +68,7 @@ Determinants; cross product
 {{< tdopen >}}
 Matrices; inverse matrices
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 2 summary ([PDF]({{< baseurl >}}/resources/lec_week2))
 {{< tdclose >}}
 
@@ -101,7 +104,7 @@ Kepler's second law
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 3 summary ([PDF]({{< baseurl >}}/resources/lec_week3))
 {{< tdclose >}}
 
@@ -128,7 +131,7 @@ Review
 {{< tdopen >}}
 Level curves; partial derivatives; tangent plane approximation
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 4 summary ([PDF]({{< baseurl >}}/resources/lec_week4))
 {{< tdclose >}}
 
@@ -158,7 +161,7 @@ Second derivative test; boundaries and infinity
 {{< tdopen >}}
 Differentials; chain rule
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 5 summary ([PDF]({{< baseurl >}}/resources/lec_week5))
 {{< tdclose >}}
 
@@ -188,7 +191,7 @@ Lagrange multipliers
 {{< tdopen >}}
 Non-independent variables
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 6 summary ([PDF]({{< baseurl >}}/resources/lec_week6))
 {{< tdclose >}}
 
@@ -215,7 +218,7 @@ Partial differential equations; review
 {{< tdopen >}}
 Double integrals
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Week 7 summary ([PDF]({{< baseurl >}}/resources/lec_week7))
 {{< tdclose >}}
 
@@ -236,7 +239,7 @@ Double integrals in polar coordinates; applications
 {{< tdopen >}}
 Change of variables
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 8 summary ([PDF]({{< baseurl >}}/resources/lec_week8))
 {{< tdclose >}}
 
@@ -266,7 +269,7 @@ Path independence and conservative fields
 {{< tdopen >}}
 Gradient fields and potential functions
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 9 summary ([PDF]({{< baseurl >}}/resources/lec_week9))
 {{< tdclose >}}
 
@@ -326,7 +329,7 @@ Week 10 summary ([PDF]({{< baseurl >}}/resources/lec_week10))
 {{< tdopen >}}
 Spherical coordinates; surface area
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 11 summary ([PDF]({{< baseurl >}}/resources/lec_week11))
 {{< tdclose >}}
 
@@ -368,7 +371,7 @@ Week 12 summary ([PDF]({{< baseurl >}}/resources/lec_week12))
 {{< tdopen >}}
 Line integrals in space, curl, exactness and potentials
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 13 summary ([PDF]({{< baseurl >}}/resources/lec_week13))
 {{< tdclose >}}
 
@@ -404,7 +407,7 @@ Maxwell's equations
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Week 14 summary ([PDF]({{< baseurl >}}/resources/lec_week14))
 {{< tdclose >}}
 

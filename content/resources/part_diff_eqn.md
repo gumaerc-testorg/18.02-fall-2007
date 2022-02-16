@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Supplementary notes on partial differential equations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02-multivariable-calculus-fall-2007/3886d5c4b263106792cdd6dd613d517e_part_diff_eqn.pdf
+file: /media/courses/18-02-multivariable-calculus-fall-2007/3886d5c4b263106792cdd6dd613d517e_part_diff_eqn.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: P. Partial Differential Equations
 uid: 3886d5c4-b263-1067-92cd-d6dd613d517e

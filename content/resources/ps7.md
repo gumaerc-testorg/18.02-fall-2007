@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set on multivariable calculus.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02-multivariable-calculus-fall-2007/3f39207fe8df2ed1086b0fbfe08e632e_ps7.pdf
+file: /media/courses/18-02-multivariable-calculus-fall-2007/3f39207fe8df2ed1086b0fbfe08e632e_ps7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 7
 uid: 3f39207f-e8df-2ed1-086b-0fbfe08e632e

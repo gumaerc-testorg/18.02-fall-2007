@@ -2,8 +2,13 @@
 content_type: resource
 description: Supplementary notes on simply-connected regions, the extended Green's
   theorem, multiply-connected regions, and the Curl theorem.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-02-multivariable-calculus-fall-2007/2bf6a40501346d3002f4ab1a739585a0_simpl_conctd_reg.pdf
+file: /media/courses/18-02-multivariable-calculus-fall-2007/2bf6a40501346d3002f4ab1a739585a0_simpl_conctd_reg.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: V5. Simply-Connected Regions
 uid: 2bf6a405-0134-6d30-02f4-ab1a739585a0
