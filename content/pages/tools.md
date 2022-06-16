@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains specially written interactive applets ("mathlets"),
+  which let you visualize and experiment with various concepts seen in lecture.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

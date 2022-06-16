@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes - Week 9 Summary ([PDF](resources/lec_week9
-  "Open in a new window."))
+related_resources_text: Lecture Notes - Week 9 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week9))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Green''s Theorem'
 uid: dcbc1462-a3cd-2379-c405-327ef53ae39f
 video_files:
@@ -26,3 +28,6 @@ video_metadata:
 **Topics covered:** Green's theorem
 
 **Instructor:** Prof. Denis Auroux
+
+
+

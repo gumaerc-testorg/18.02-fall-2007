@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes - Week 4 Summary ([PDF](resources/lec_week4
-  "Open in a new window."))
+related_resources_text: Lecture Notes - Week 4 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week4))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Partial Derivatives'
 uid: fe84d1e8-5d50-f0f3-77ba-0e3e9b45eef2
 video_files:
@@ -26,3 +28,6 @@ video_metadata:
 **Topics covered:** Level curves; partial derivatives; tangent plane approximation
 
 **Instructor:** Prof. Denis Auroux
+
+
+

@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes - Week 5 Summary ([PDF](resources/lec_week5
-  "Open in a new window."))
+related_resources_text: Lecture Notes - Week 5 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week5))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Gradient'
 uid: 83f3db40-1bd3-99a2-71d4-d5c2ccc9ab7c
 video_files:
@@ -26,3 +28,6 @@ video_metadata:
 **Topics covered:** Gradient; directional derivative; tangent plane
 
 **Instructor:** Prof. Denis Auroux
+
+
+

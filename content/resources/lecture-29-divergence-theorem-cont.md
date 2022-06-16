@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes - Week 12 Summary ([PDF](resources/lec_week12
-  "Open in a new window."))
+related_resources_text: Lecture Notes - Week 12 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week12))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 29: Divergence Theorem (cont.)'
 uid: adfa16ca-5cf7-0b08-3b4f-60a56da07aa3
 video_files:
@@ -26,3 +28,6 @@ video_metadata:
 **Topics covered:** Divergence theorem (cont.): applications and proof
 
 **Instructor:** Prof. Denis Auroux
+
+
+

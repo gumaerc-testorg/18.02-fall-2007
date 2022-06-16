@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "\_Lecture Notes - Week 14 Summary ([PDF](resources/lec_week14\
-  \ \"Open in a new window.\"))"
+related_resources_text: "\_Lecture Notes - Week 14 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week14))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 35: Final Review (cont.)'
 uid: 3e5626cb-ce1d-b720-307f-37be1abe89f9
 video_files:
@@ -26,3 +28,6 @@ video_metadata:
 **Topics covered:** Final review (cont.)
 
 **Instructor:** Prof. Denis Auroux
+
+
+

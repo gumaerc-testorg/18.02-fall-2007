@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes - Week 4 Summary ([PDF](resources/lec_week4
-  "Open in a new window."))
+related_resources_text: Lecture Notes - Week 4 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week4))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Max-Min and Least Squares'
 uid: 75a6d77f-e3da-356a-128b-6451947ae61d
 video_files:
@@ -26,3 +28,6 @@ video_metadata:
 **Topics covered:** Max-min problems; least squares
 
 **Instructor:** Prof. Denis Auroux
+
+
+

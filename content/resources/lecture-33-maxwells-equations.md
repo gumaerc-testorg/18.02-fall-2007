@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes - Week 14 Summary ([PDF](resources/lec_week14
-  "Open in a new window."))
+related_resources_text: Lecture Notes - Week 14 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week14))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 33: Maxwell''s Equations'
 uid: 2f746b72-25c6-b664-f528-3f22805f541f
 video_files:
@@ -26,3 +28,6 @@ video_metadata:
 **Topics covered:** Topological considerations - Maxwell's equations
 
 **Instructor:** Prof. Denis Auroux
+
+
+

@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes - Week 2 Summary ([PDF](resources/lec_week2
-  "Open in a new window."))
+related_resources_text: Lecture Notes - Week 2 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week2))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Parametric Equations'
 uid: fc85db80-d6c0-6766-5631-6ce4edd4fd85
 video_files:
@@ -26,3 +28,6 @@ video_metadata:
 **Topics covered:** Parametric equations for lines and curves
 
 **Instructor:** Prof. Denis Auroux
+
+
+

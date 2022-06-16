@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes - Week 1 Summary ([PDF](resources/lec_week1
-  "Open in a new window."))
+related_resources_text: Lecture Notes - Week 1 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Dot Product'
 uid: cd3637f7-71f9-145c-6b08-7c7e3c9f2de1
 video_files:
@@ -26,3 +28,6 @@ video_metadata:
 **Topics covered:** Dot product
 
 **Instructor:** Prof. Denis Auroux
+
+
+

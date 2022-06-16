@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes - Week 8 Summary ([PDF](resources/lec_week8
-  "Open in a new window."))
+related_resources_text: Lecture Notes - Week 8 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week8))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Change of Variables'
 uid: 999df8a0-b9fc-052b-fe62-aac64fefd5da
 video_files:
@@ -26,3 +28,6 @@ video_metadata:
 **Topics covered:** Change of variables
 
 **Instructor:** Prof. Denis Auroux
+
+
+

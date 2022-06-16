@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-02-multivariable-calculus-fall-2007/08ea62f9e581f26b78511f34a3fac3a3_U1EcnfTKXJ0.pdf
+file: /courses/18-02-multivariable-calculus-fall-2007/08ea62f9e581f26b78511f34a3fac3a3_U1EcnfTKXJ0.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

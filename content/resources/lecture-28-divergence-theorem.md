@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes - Week 11 Summary ([PDF](resources/lec_week11
-  "Open in a new window."))
+related_resources_text: Lecture Notes - Week 11 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week11))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 28: Divergence Theorem'
 uid: c79290f7-ac74-a504-63ed-add52d41d673
 video_files:
@@ -26,3 +28,6 @@ video_metadata:
 **Topics covered:** Divergence theorem
 
 **Instructor:** Prof. Denis Auroux
+
+
+

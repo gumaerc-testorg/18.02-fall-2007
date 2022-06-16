@@ -1,17 +1,19 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes - Week 7 Summary ([PDF](resources/lec_week7
-  "Open in a new window."))
+related_resources_text: Lecture Notes - Week 7 Summary ([PDF](/courses/18-02-multivariable-calculus-fall-2007/resources/lec_week7))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Polar Coordinates'
 uid: adf1dbca-37ab-53ba-28b3-218a7a5fb958
 video_files:
@@ -26,3 +28,6 @@ video_metadata:
 **Topics covered:** Double integrals in polar coordinates; applications
 
 **Instructor:** Prof. Denis Auroux
+
+
+
