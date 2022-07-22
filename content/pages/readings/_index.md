@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The readings section provides a list of reading assignments for each
+  lecture session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 16819b09-677c-9716-4136-acd1fd60474c
 ---
@@ -8,7 +13,7 @@ Listed in the table below are reading assignments for each lecture session.
 
 "Text" refers to the course textbook: Edwards, Henry C., and David E. Penney. _Multivariable Calculus_. 6th ed. Lebanon, IN: Prentice Hall, 2002. ISBN: 9780130339676.
 
-"Notes" refers to the "[18.02 Supplementary Notes and Problems]({{< baseurl >}}/pages/readings/supp_notes)" written by Prof. Arthur Mattuck.
+"Notes" refers to the "{{% resource_link 9fa067c1-918e-c234-1bcb-156f6c4d73ad "18.02 Supplementary Notes and Problems" %}}" written by Prof. Arthur Mattuck.
 
 {{< tableopen >}}
 {{< theadopen >}}
