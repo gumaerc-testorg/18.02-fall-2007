@@ -6,6 +6,7 @@ file: /courses/18-02-multivariable-calculus-fall-2007/f9930ed73e88877a97fa629fb9
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: V12. Gradient Fields in Space
 uid: f9930ed7-3e88-877a-97fa-629fb98ebcb6
 ---
 Supplementary notes on gradient fields in space, the criterion for gradient fields, the curl in space, and exact differentials.
-

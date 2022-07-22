@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-fall-2007/759e65e66759922ddcb596c3c9
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: G. Gravitational Attraction
 uid: 759e65e6-6759-922d-dcb5-96c3c9e392e1
 ---
 Supplementary notes on gravitational attraction.
-

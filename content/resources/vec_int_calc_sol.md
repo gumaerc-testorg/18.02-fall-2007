@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-fall-2007/3f80df26fc2e4f154961d07430
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 6. Vector Integral Calculus in Space
 uid: 3f80df26-fc2e-4f15-4961-d0743009d681
 ---
 Solutions to supplementary exercises on vector integral calculus in space.
-

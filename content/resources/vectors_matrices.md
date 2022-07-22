@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-fall-2007/e98dbac2fcbe843ac0214c1469
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 1. Vectors and Matrices
 uid: e98dbac2-fcbe-843a-c021-4c1469cef065
 ---
 Supplementary exercises on vectors and matrices.
-

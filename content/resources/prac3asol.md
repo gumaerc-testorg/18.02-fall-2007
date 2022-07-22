@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-fall-2007/1df63ab621e303a87e7939d5a2
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Practice Exam 3A - Solutions
 uid: 1df63ab6-21e3-03a8-7e79-39d5a2ec3e29
 ---
 Solutions to Practice Exam 3A.
-

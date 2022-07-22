@@ -7,6 +7,7 @@ file: /courses/18-02-multivariable-calculus-fall-2007/1f347ef15edbc8817a6ea296d5
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 3. Double Integrals
 uid: 1f347ef1-5edb-c881-7a6e-a296d57362f2
 ---
 Supplementary exercises on double integrals in rectangular and polar coordinates, applications of double integration, and changing variables in multiple integrals.
-

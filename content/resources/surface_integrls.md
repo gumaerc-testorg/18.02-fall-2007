@@ -6,6 +6,7 @@ file: /courses/18-02-multivariable-calculus-fall-2007/b99f7b21fccbe519c083999557
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,6 +16,4 @@ title: V9. Surface Integrals
 uid: b99f7b21-fccb-e519-c083-9995574b4da8
 ---
 Supplementary notes on surface integrals, the surface integral for flux, flux through general surfaces, and other types of surface integrals.
-
-
 

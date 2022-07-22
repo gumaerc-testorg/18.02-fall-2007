@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-fall-2007/3886d5c4b263106792cdd6dd61
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: P. Partial Differential Equations
 uid: 3886d5c4-b263-1067-92cd-d6dd613d517e
 ---
 Supplementary notes on partial differential equations.
-

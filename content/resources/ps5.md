@@ -5,6 +5,7 @@ file: /courses/18-02-multivariable-calculus-fall-2007/b4036a083eda01968709dc2232
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 5
 uid: b4036a08-3eda-0196-8709-dc22325f76d4
 ---
 Problem set on multivariable calculus.
-

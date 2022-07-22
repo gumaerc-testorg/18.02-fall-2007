@@ -7,6 +7,7 @@ file: /courses/18-02-multivariable-calculus-fall-2007/7e2115bc8fe1e94653da9c8553
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: I. Limits in Iterated Integrals
 uid: 7e2115bc-8fe1-e946-53da-9c8553954f47
 ---
 Supplementary notes on limits in iterated integrals, double integrals in rectangular coordinates, double integrals in polar coordinates, triple integrals in rectangular and cylindrical coordinates, and spherical coordinates.
-

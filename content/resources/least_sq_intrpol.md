@@ -6,6 +6,7 @@ file: /courses/18-02-multivariable-calculus-fall-2007/1f1dc7085b5af1c44b692f037b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: LS. Least Squares Interpolation
 uid: 1f1dc708-5b5a-f1c4-4b69-2f037b2810f9
 ---
 Supplementary notes on least squares interpolation, the least-squares line, and fitting curves by least squares.
-

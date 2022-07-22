@@ -6,6 +6,7 @@ file: /courses/18-02-multivariable-calculus-fall-2007/7ff072cd961faad14e5d02bdac
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 5. Triple Integrals
 uid: 7ff072cd-961f-aad1-4e5d-02bdac1ddda1
 ---
 Solutions to supplementary exercises on triple integrals in rectangular, cylindrical, and spherical coordinates, and gravitational attraction.
-
