@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplementary notes on the divergence theorem.
 file: /courses/18-02-multivariable-calculus-fall-2007/9afd292901a4a429e5a8eaad83a7fb6d_divergance_thm.pdf
+file_size: 284923
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on multivariable calculus.
 file: /courses/18-02-multivariable-calculus-fall-2007/d58d48566a96c5cf4c44e447391e87d2_ps2.pdf
+file_size: 107544
 file_type: application/pdf
 learning_resource_types:
 - Assignments

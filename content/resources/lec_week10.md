@@ -4,6 +4,7 @@ description: Lecture summary for Week 10. Topics include triple integrals in rec
   and cylindrical coordinates, simply connected regions, double integrals, line integrals,
   and applications.
 file: /courses/18-02-multivariable-calculus-fall-2007/f7eb65206a728a6010805ff4a8421312_lec_week10.pdf
+file_size: 202651
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

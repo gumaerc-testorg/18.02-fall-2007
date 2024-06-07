@@ -3,6 +3,7 @@ content_type: resource
 description: Supplementary notes on the use of the divergence theorem, Stokes' theorem
   in space,and  Green's theorem in the plane in electromagnetic theory.
 file: /courses/18-02-multivariable-calculus-fall-2007/09ae8ccfce72c4883f1cedf16213f381_relation_to_phy.pdf
+file_size: 316632
 file_type: application/pdf
 learning_resource_types:
 - Readings
