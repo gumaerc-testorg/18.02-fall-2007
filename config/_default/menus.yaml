@@ -23,11 +23,7 @@ leftnav:
   name: Exams
   pageRef: /pages/exams
   weight: 60
-- identifier: e15c6e36-5d48-5d9b-ba39-75a940571211
-  name: Tools
-  pageRef: /pages/tools
-  weight: 70
 - identifier: d4e54c63-63f2-9211-5697-e70de7a59fd1
   name: Video Lectures
   pageRef: /video_galleries/video-lectures
-  weight: 80
+  weight: 70
