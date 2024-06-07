@@ -4,6 +4,7 @@ description: Lecture summary for Week 4. Topics include functions of several var
   partial derivatives, linear approximation, min/max problems, least squares, and
   the second derivative test.
 file: /courses/18-02-multivariable-calculus-fall-2007/a107b0335c1b55a80c8b4b37540cccac_lec_week4.pdf
+file_size: 184704
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

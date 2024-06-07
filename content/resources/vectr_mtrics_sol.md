@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to supplementary exercises on vectors and matrices.
 file: /courses/18-02-multivariable-calculus-fall-2007/38997951b714e04e4800b9a07f85467b_vectr_mtrics_sol.pdf
+file_size: 633094
 file_type: application/pdf
 learning_resource_types:
 - Readings
