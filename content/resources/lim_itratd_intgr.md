@@ -4,6 +4,7 @@ description: Supplementary notes on limits in iterated integrals, double integra
   in rectangular coordinates, double integrals in polar coordinates, triple integrals
   in rectangular and cylindrical coordinates, and spherical coordinates.
 file: /courses/18-02-multivariable-calculus-fall-2007/7e2115bc8fe1e94653da9c8553954f47_lim_itratd_intgr.pdf
+file_size: 248314
 file_type: application/pdf
 learning_resource_types:
 - Readings

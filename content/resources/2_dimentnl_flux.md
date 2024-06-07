@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplementary notes on two-dimensional flux.
 file: /courses/18-02-multivariable-calculus-fall-2007/b157e0b0bd5c00179bb5e2c1fda6b08b_2_dimentnl_flux.pdf
+file_size: 213634
 file_type: application/pdf
 learning_resource_types:
 - Readings

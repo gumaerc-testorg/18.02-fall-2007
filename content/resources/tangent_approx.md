@@ -4,6 +4,7 @@ description: Supplementary notes on the tangent approximation, partial derivativ
   the tangent plane, the approximation formula, and critique of the approximation
   formula.
 file: /courses/18-02-multivariable-calculus-fall-2007/6953b35d3aebd8e03b629c349ba5b559_tangent_approx.pdf
+file_size: 374919
 file_type: application/pdf
 learning_resource_types:
 - Readings
