@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to Practice Exam 1A.
-file: /courses/18-02-multivariable-calculus-fall-2007/dd2524a8ad4d5784979309d6b3cacb6c_prac1asol.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/dd2524a8ad4d5784979309d6b3cacb6c_prac1asol.pdf
 file_size: 130981
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions on how to use the program MATLAB?, which students must use
   on some problem sets.
-file: /courses/18-02-multivariable-calculus-fall-2007/7599851f7bf72afe6015fb53b6891d63_matlab.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/7599851f7bf72afe6015fb53b6891d63_matlab.pdf
 file_size: 129818
 file_type: application/pdf
 learning_resource_types:
