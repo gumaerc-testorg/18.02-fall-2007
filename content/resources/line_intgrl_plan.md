@@ -3,7 +3,7 @@ content_type: resource
 description: Supplementary exercises on line integrals in the plane, plane vector
   fields, gradient fields and exact differentials, Green's theorem, two-dimensional
   flux, simply-connected regions, and multiply-connected regions.
-file: /courses/18-02-multivariable-calculus-fall-2007/c72e515e67f30f3e30de5693daf1b687_line_intgrl_plan.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/c72e515e67f30f3e30de5693daf1b687_line_intgrl_plan.pdf
 file_size: 394171
 file_type: application/pdf
 learning_resource_types:
