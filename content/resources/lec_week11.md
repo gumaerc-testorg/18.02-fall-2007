@@ -4,7 +4,7 @@ description: Lecture summary for Week 11. Topics include spherical coordinates, 
   element, application gravitation, vector fields in space, flux, geometric interpretation
   of flux, flux through a graph, parametric surfaces, implicit surfaces, divergence
   theorem, and physical interpretation.
-file: /courses/18-02-multivariable-calculus-fall-2007/c081c812df4a020e26de273c7cea957c_lec_week11.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/c081c812df4a020e26de273c7cea957c_lec_week11.pdf
 file_size: 222636
 file_type: application/pdf
 learning_resource_types:
