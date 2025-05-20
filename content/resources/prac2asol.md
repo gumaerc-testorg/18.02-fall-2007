@@ -1,11 +1,16 @@
 ---
 content_type: resource
 description: Solutions to Practice Exam 2A.
-file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/10da469322eadb71bda6c249d4640824_prac2asol.pdf
+draft: false
+file: /courses/18-02-multivariable-calculus-fall-2007/10da469322eadb71bda6c249d4640824_prac2asol.pdf
 file_size: 119654
 file_type: application/pdf
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Exams
+- Exams with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
@@ -14,5 +19,15 @@ parent_uid: 211fcc36-f12d-152c-6667-c53f1e850e66
 resourcetype: Document
 title: Practice Exam 2A - Solutions
 uid: 10da4693-22ea-db71-bda6-c249d4640824
+video_files:
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---
 Solutions to Practice Exam 2A.
