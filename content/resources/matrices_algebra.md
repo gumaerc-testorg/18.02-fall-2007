@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplementary notes on matrices and linear algebra.
-file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/6bb3f3f77fca6f30b92bd804276ffb26_matrices_algebra.pdf
+file: /courses/18-02-multivariable-calculus-fall-2007/6bb3f3f77fca6f30b92bd804276ffb26_matrices_algebra.pdf
 file_size: 548490
 file_type: application/pdf
 learning_resource_types:
