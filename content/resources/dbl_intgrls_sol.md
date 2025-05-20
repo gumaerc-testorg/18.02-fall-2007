@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to supplementary exercises on double integrals.
-file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/132514b2e585c774331e5cb449684c0f_dbl_intgrls_sol.pdf
+file: /courses/18-02-multivariable-calculus-fall-2007/132514b2e585c774331e5cb449684c0f_dbl_intgrls_sol.pdf
 file_size: 304280
 file_type: application/pdf
 learning_resource_types:

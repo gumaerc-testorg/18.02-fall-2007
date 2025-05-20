@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplementary notes on multiply-connected regions and topology.
-file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/2529033104da2cabfed033efa6931d98_mult_conectd_reg.pdf
+file: /courses/18-02-multivariable-calculus-fall-2007/2529033104da2cabfed033efa6931d98_mult_conectd_reg.pdf
 file_size: 296358
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplementary exercises on vectors and matrices.
-file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/e98dbac2fcbe843ac0214c1469cef065_vectors_matrices.pdf
+file: /courses/18-02-multivariable-calculus-fall-2007/e98dbac2fcbe843ac0214c1469cef065_vectors_matrices.pdf
 file_size: 682298
 file_type: application/pdf
 learning_resource_types:
