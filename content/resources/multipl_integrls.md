@@ -2,7 +2,7 @@
 content_type: resource
 description: Supplementary notes on changing variables in multiple integrals, putting
   in the limits, and changing coordinates in triple integrals.
-file: /courses/18-02-multivariable-calculus-fall-2007/05f51f37ac3bb5801af56e6879728f68_multipl_integrls.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/05f51f37ac3bb5801af56e6879728f68_multipl_integrls.pdf
 file_size: 420997
 file_type: application/pdf
 learning_resource_types:

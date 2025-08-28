@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to Practice Exam 4B.
 draft: false
-file: /courses/18-02-multivariable-calculus-fall-2007/8e7af9861fedf8b81de3d8999514787d_prac4bsol.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/8e7af9861fedf8b81de3d8999514787d_prac4bsol.pdf
 file_size: 157897
 file_type: application/pdf
 image_metadata:
