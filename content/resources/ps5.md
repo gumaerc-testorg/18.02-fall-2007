@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on multivariable calculus.
 draft: false
-file: /courses/18-02-multivariable-calculus-fall-2007/b4036a083eda01968709dc22325f76d4_ps5.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/b4036a083eda01968709dc22325f76d4_ps5.pdf
 file_size: 121113
 file_type: application/pdf
 image_metadata:
