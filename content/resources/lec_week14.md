@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture summary for Week 14. Topics include applications of div and curl
   to physics, interpretation of curl for force fields, and div and curl of electrical
   fields.
-file: /courses/18-02-multivariable-calculus-fall-2007/845e1cb635c0019aba7c56e6d38710f5_lec_week14.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/845e1cb635c0019aba7c56e6d38710f5_lec_week14.pdf
 file_size: 153874
 file_type: application/pdf
 learning_resource_types:

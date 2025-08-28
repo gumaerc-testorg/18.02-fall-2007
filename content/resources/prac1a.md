@@ -2,7 +2,7 @@
 content_type: resource
 description: Practice exam on multivariable calculus, intended to be of the same general
   level of difficulty as the actual exam.
-file: /courses/18-02-multivariable-calculus-fall-2007/7ac1ea75a9b0cd82d84297abe0958407_prac1a.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/7ac1ea75a9b0cd82d84297abe0958407_prac1a.pdf
 file_size: 131466
 file_type: application/pdf
 learning_resource_types:
