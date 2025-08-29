@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to Practice Exam 1B.
 draft: false
-file: /courses/18-02-multivariable-calculus-fall-2007/6d5851e73048e1ef128d7ee0babaf783_prac1bsol.pdf
+file: /ol-ocw-studio-app/courses/18-02-multivariable-calculus-fall-2007/6d5851e73048e1ef128d7ee0babaf783_prac1bsol.pdf
 file_size: 139009
 file_type: application/pdf
 image_metadata:
